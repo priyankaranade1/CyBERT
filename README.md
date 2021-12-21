@@ -25,6 +25,7 @@ To use CyBERT for fine-tuning cybersecurity tasks using the provided models, loa
 
 ```
 from transformers import BertTokenizer, BertForMaskedLM
+
 tokenizer = BertTokenizer.from_pretrained("path to CyBERT directory")
 model = BertForMaskedLM.from_pretrained("path to CyBERT directory")
 ```
