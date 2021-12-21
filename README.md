@@ -15,7 +15,7 @@ Refer to the published paper here for more information, and please use the follo
 ```
 ## Downloading Models
 
-Available model releases will be available here in the [Releases](https://drive.google.com/drive/folders/1MUpyXXjZTgvowjPt-FoD5hp2cwO95Oii?usp=sharing) directory. Current model links are also available below:
+Available model releases will be available here in the [Releases](https://drive.google.com/drive/folders/17B0DjdI3WRn0eAYe7ecF91gmN2Uj5FiB?usp=sharing) directory. Current model links are also available below:
 
 * **[CyBERT-Base-MLM v1.1](https://drive.google.com/drive/folders/1MUpyXXjZTgvowjPt-FoD5hp2cwO95Oii?usp=sharing)** - fine-tuned on BERT-Base-Cased, with extended cybersecurity vocabulary.
 
