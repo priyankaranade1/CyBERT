@@ -2,7 +2,7 @@
 
 This repository provides pre-trained weights of CyBERT, a language representation model for the cybersecurity domain. This model can be used for a variety of cybersecurity-based downstream tasks such as named entity recognition, and multi-class classification. 
 
-Refer to the [published paper](https://ebiquity.umbc.edu/_file_directory_/papers/1117.pdf) here for more information, and please use the following citation when testing and/or re-purposing provided materials:
+Refer to the [published paper](https://ebiquity.umbc.edu/_file_directory_/papers/1117.pdf)  for more information, and please use the following citation below when testing and/or re-purposing provided materials:
 
 ## Citation
 ```
