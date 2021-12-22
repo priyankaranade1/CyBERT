@@ -31,4 +31,4 @@ model = BertForMaskedLM.from_pretrained("path to CyBERT directory")
 ```
 
 # Contact information
-For help or issues, please contact Priyanka Ranade.
+For help or issues, please contact [Priyanka Ranade] (priyankaranade@umbc.edu)
